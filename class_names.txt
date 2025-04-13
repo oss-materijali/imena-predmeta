@@ -1,0 +1,64 @@
+I. semestar
+Uvod u programiranje
+Osnove izrade web stranica
+Linearna algebra
+Digitalni sustavi
+Uvod u racunarstvo
+
+II. semestar
+Praktikum iz Linuxa
+Fizika u racunarstvu
+Racunalne mreze
+Programske metode i apstrakcije
+Matematicka analiza
+Tehnicki engleski jezik
+
+III. semestar
+Baze podataka
+Operativni sustavi
+Strukture podataka i algoritmi
+Objektno orijentirano programiranje
+Primijenjena i numericka matematika
+
+IV. semestar
+Izrada web aplikacija
+Programiranje web korisnickog sucelja
+Praktikum iz SQL-a
+Diskretna matematika
+Odabrani alati i naredbe u Linuxu
+Ekonomika i organizacija poduzeca
+Izrada mobilnih aplikacija
+
+V. semestar
+Strucna praksa
+
+V. semestar (izborni)
+Posluziteljski sustavi
+Grada i odrzavanje osobnih racunala
+Programiranje u Javi
+Sigurnost racunala i podataka
+Prospajanje u lokalnim mrezama
+Programiranje ioT uredaja
+
+V. semestar (neracunalni)
+Osnove poduzetnistva
+
+VI. semestar
+Zavrsni rad
+
+Vi. semestar (izborni)
+Programiranje u C#
+Projektiranje i upravljanje racunalnim mrezama
+Upravljanje posluziteljima
+Vodenje projekata i dokumentacija
+Arhitektura racunala
+Razvoj racunalnih igara
+Protokoli usmjeravanja na internetu
+
+VI. semestar (neracunalni)
+Communication skills and cultural awareness
+Osnove njemackog jezika
+Osnove talijanskog jezika
+Ronjenje s autonomnom ronilackom opremom
+Uvod u americki film
+

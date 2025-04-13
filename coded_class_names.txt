@@ -1,0 +1,64 @@
+I. semestar
+SRC103 Uvod u programiranje
+SRC132 Osnove izrade web stranica
+SRC101 Linearna algebra
+SRC104 Digitalni sustavi
+SRC150 Uvod u racunarstvo
+
+II. semestar
+SRC151 Praktikum iz Linuxa
+SRC102 Fizika u racunarstvu
+SRC116 Racunalne mreze
+SRC109 Programske metode i apstrakcije
+SRC106 Matematicka analiza
+SRC110 Tehnicki engleski jezik
+
+III. semestar
+SRC113 Baze podataka
+SRC107 Operativni sustavi
+SRC115 Strukture podataka i algoritmi
+SRC119 Objektno orijentirano programiranje
+SRC112 Primijenjena i numericka matematika
+
+IV. semestar
+SRC126 Izrada web aplikacija
+SRC118 Programiranje web korisnickog sucelja
+SRC120 Praktikum iz SQL-a
+SRC117 Diskretna matematika
+SRC137 Odabrani alati i naredbe u Linuxu
+SRC111 Ekonomika i organizacija poduzeca
+SRC152 Izrada mobilnih aplikacija
+
+V. semestar
+SRC145 Strucna praksa
+
+V. semestar (izborni)
+SRC128 Posluziteljski sustavi
+SRC121 Grada i odrzavanje osobnih racunala
+SRC125 Programiranje u Javi
+SRC129 Sigurnost racunala i podataka
+SRC153 Prospajanje u lokalnim mrezama
+SRC154 Programiranje ioT uredaja
+
+V. semestar (neracunalni)
+SRC147 Osnove poduzetnistva
+
+VI. semestar
+SRC146 Zavrsni rad
+
+Vi. semestar (izborni)
+SRC136 Programiranje u C#
+SRC122 Projektiranje i upravljanje racunalnim mrezama
+SRC135 Upravljanje posluziteljima
+SRC138 Vodenje projekata i dokumentacija
+SRC108 Arhitektura racunala
+SRC155 Razvoj racunalnih igara
+SRC157 Protokoli usmjeravanja na internetu
+
+VI. semestar (neracunalni)
+SRC142 Communication skills and cultural awareness
+SRC140 Osnove njemackog jezika
+SRC141 Osnove talijanskog jezika
+SRC144 Ronjenje s autonomnom ronilackom opremom
+SRC143 Uvod u americki film
+
